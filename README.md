@@ -1,5 +1,7 @@
 ## Hello, I'm Sahat
 
+# I'm a student and data analytics enthusiast
+
 • 📖 Pursuing Masters of Science in Information Systems <br>
 • 🐢 I go to the University of Maryland! <br>
 • 🎓 Bachelors in Information Technology <br>
