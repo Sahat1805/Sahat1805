@@ -1,4 +1,4 @@
-### Hello, I'm Sahat
+## Hello, I'm Sahat
 
 • 📖 Pursuing Masters of Science in Information Systems <br>
 • 🐢 I go to the University of Maryland! <br>
