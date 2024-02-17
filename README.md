@@ -1,6 +1,6 @@
-## Hello, I'm Sahat
+# Hello, I'm Sahat
 
-# I'm a student and data analytics enthusiast
+## I'm a student and data analytics enthusiast
 
 • 📖 Pursuing Masters of Science in Information Systems <br>
 • 🐢 I go to the University of Maryland! <br>
